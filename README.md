@@ -4,7 +4,7 @@ This game is a simpler recreation of the beloved classic 2D platformer game, Mar
 ## How to Run the Program:
 This program was tested to run from IntelliJ IDEA's run button, but you can also run it from the terminal in IDEA.
 
-Place all files into a folder titled "src". This will be your working directory. Then set your working directory in the IDEA terminal to src. Then run this line:
+Place all files into the src folder of IDEA. Then set your working directory in the IDEA terminal to src. Then run this line:
 `javac *.java`
 and then run this line:
 `java Project`
